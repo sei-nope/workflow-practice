@@ -1,4 +1,4 @@
-'use stict'
+'use strict'
 // Contains all of my AJAX calls to the api
 const config = require('../config')
 
