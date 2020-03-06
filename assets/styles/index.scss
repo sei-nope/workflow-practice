@@ -1,1 +1,9 @@
 @import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+
+
+body {
+  font-family: 'Trade Winds', cursive;
+  justify-content: center;
+  align-items: center;
+}
